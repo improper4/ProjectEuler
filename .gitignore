@@ -1,3 +1,10 @@
+.DS_Store
+*.out
+*.o
+*.class
+*.in
+*.txt
+
 *.class
 
 # Package Files #
